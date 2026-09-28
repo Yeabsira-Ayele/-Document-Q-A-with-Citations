@@ -1,0 +1,28 @@
+[
+  {"id": "q01", "question": "How many days of paid time off do full-time employees receive per year?", "answerable": true, "gold_pages": []},
+  {"id": "q02", "question": "What is the process for requesting annual leave?", "answerable": true, "gold_pages": []},
+  {"id": "q03", "question": "How much notice must an employee give before resigning?", "answerable": true, "gold_pages": []},
+  {"id": "q04", "question": "What are the standard working hours?", "answerable": true, "gold_pages": []},
+  {"id": "q05", "question": "Is remote work allowed, and under what conditions?", "answerable": true, "gold_pages": []},
+  {"id": "q06", "question": "What health insurance benefits are offered?", "answerable": true, "gold_pages": []},
+  {"id": "q07", "question": "How does the performance review process work?", "answerable": true, "gold_pages": []},
+  {"id": "q08", "question": "What is the policy on sick leave?", "answerable": true, "gold_pages": []},
+  {"id": "q09", "question": "What counts as gross misconduct?", "answerable": true, "gold_pages": []},
+  {"id": "q10", "question": "How do I report harassment or discrimination?", "answerable": true, "gold_pages": []},
+  {"id": "q11", "question": "What is the parental leave entitlement?", "answerable": true, "gold_pages": []},
+  {"id": "q12", "question": "Which expenses can be reimbursed and how are they claimed?", "answerable": true, "gold_pages": []},
+  {"id": "q13", "question": "What is the dress code?", "answerable": true, "gold_pages": []},
+  {"id": "q14", "question": "What are the rules on using company equipment for personal reasons?", "answerable": true, "gold_pages": []},
+  {"id": "q15", "question": "How long is the probation period for new hires?", "answerable": true, "gold_pages": []},
+  {"id": "q16", "question": "What happens if an employee is repeatedly late?", "answerable": true, "gold_pages": []},
+  {"id": "q17", "question": "What training or professional development is available?", "answerable": true, "gold_pages": []},
+  {"id": "q18", "question": "What is the confidentiality obligation after leaving the company?", "answerable": true, "gold_pages": []},
+  {"id": "q19", "question": "Who do I contact about a payroll error?", "answerable": true, "gold_pages": []},
+  {"id": "q20", "question": "Are employees allowed to take on outside work?", "answerable": true, "gold_pages": []},
+
+  {"id": "u01", "question": "What is the company's policy on Mars colonisation?", "answerable": false, "gold_pages": []},
+  {"id": "u02", "question": "How do I renew my Ethiopian driving licence?", "answerable": false, "gold_pages": []},
+  {"id": "u03", "question": "What was the company's revenue in 2019?", "answerable": false, "gold_pages": []},
+  {"id": "u04", "question": "Which programming language should I use for my next project?", "answerable": false, "gold_pages": []},
+  {"id": "u05", "question": "What is the recipe for doro wat served in the cafeteria?", "answerable": false, "gold_pages": []}
+]
